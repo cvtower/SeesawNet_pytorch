@@ -18,3 +18,14 @@ matplotlib
 tensorboardX 
 
 We finished this work by July 2018 and before shufflenetv2 announced. however, due to limited leisure time(we achieve another pro version of SeesawNet and verified all related models on image segmentation(deeplabv3)/detection(ssd variants)/style transfer(replace backbone)/face recognition) and little experience on paper writing, we directlly post it on arxiv later.
+
+
+Citation
+Please cite our papers in your publications if it helps your research:
+
+@article{zhang2019seesaw,
+  title={Seesaw-Net: Convolution Neural Network With Uneven Group Convolution},
+  author={Zhang, Jintao},
+  journal={arXiv preprint arXiv:1905.03672},
+  year={2019}
+}
