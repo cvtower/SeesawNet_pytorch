@@ -23,9 +23,11 @@ We finished this work by July 2018 and before shufflenetv2 announced. however, d
 Citation
 Please cite our papers in your publications if it helps your research:
 
-@article{zhang2019seesaw,
-  title={Seesaw-Net: Convolution Neural Network With Uneven Group Convolution},
-  author={Zhang, Jintao},
-  journal={arXiv preprint arXiv:1905.03672},
-  year={2019}
+@misc{zhang2019seesawnet,
+    title={Seesaw-Net: Convolution Neural Network With Uneven Group Convolution},
+    author={Jintao Zhang},
+    year={2019},
+    eprint={1905.03672},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
