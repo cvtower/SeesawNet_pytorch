@@ -10,7 +10,7 @@ The training module comes from https://github.com/pytorch/examples, that is our 
 
 CIFAR10/CIFAR100
 
-The training module partly comes from this repo:https://github.com/xxradon/IGCV3-pytorch(thanks very much to @xxradon), but we correct the IGCV3 model and training related paras reffer to original paper and could reproduce the performance of IGCV3 as our baseline.
+The training module partly comes from this repo:https://github.com/xxradon/IGCV3-pytorch(thanks very much to @xxradon), but we correct the IGCV3 model and training related paras refer to original paper and could reproduce the performance of IGCV3 as our baseline.
 
 Main Dependencies
 
