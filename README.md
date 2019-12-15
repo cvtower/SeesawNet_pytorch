@@ -14,8 +14,8 @@ The training module comes from https://github.com/pytorch/examples, that is our 
 CIFAR10/CIFAR100
 
 The training module partly comes from this repo:https://github.com/xxradon/IGCV3-pytorch(thanks very much to @xxradon), but we correct the IGCV3 model and training related paras refer to original paper and could reproduce the performance of IGCV3 as our baseline.
-![image](https://github.com/cvtower/SeesawNet_pytorch/tree/master/figures/cifar10_test.jpg)
-![image](https://github.com/cvtower/SeesawNet_pytorch/tree/master/figures/cifar100_test.jpg)
+![image](https://github.com/cvtower/SeesawNet_pytorch/raw/master/figures/cifar10_test.jpg)
+![image](https://github.com/cvtower/SeesawNet_pytorch/raw/master/figures/cifar100_test.jpg)
 
 Main Dependencies
 
