@@ -8,8 +8,8 @@ ImageNet
 
 The training module comes from https://github.com/pytorch/examples, that is our implement does not include extra tricks since we would perfer reproducing performance reported by papers should be easy.
 
-![image](https://github.com/cvtower/SeesawNet_pytorch/tree/master/figures/imagenet_test.jpg)
-![image](https://github.com/cvtower/SeesawNet_pytorch/tree/master/figures/efficiency_bench.jpg)
+![Image text](https://github.com/cvtower/SeesawNet_pytorch/tree/master/figures/imagenet_test.jpg)
+![Image text](https://github.com/cvtower/SeesawNet_pytorch/tree/master/figures/efficiency_bench.jpg)
 
 CIFAR10/CIFAR100
 
